@@ -13,8 +13,8 @@ and displays a message indicating which one sold more.
 If the quantities are equal, display a message saying that there was a tie.
 
 '''
-apples = int(input("Enter the number of apples sold: "))
-bananas = int(input("Enter the number of bananas sold:"))
+apples = int(input("Enter the number of Apples sold: "))
+bananas = int(input("Enter the number of Bananas sold:"))
 
 if apples > bananas:
     print("Apples had higher sales")
