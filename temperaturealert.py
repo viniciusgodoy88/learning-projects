@@ -7,7 +7,7 @@ as input and, if necessary, displays an alert message.
 
 '''
 
-temperature = float(input("Insert the temperature servers: "))
+temperature = float(input("Insert the TEMPERATURE servers: "))
 
 if(temperature < 25):
     print("Congratulations, safe temperature! ")
