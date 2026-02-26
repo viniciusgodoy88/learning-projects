@@ -23,6 +23,7 @@ Each project is organized as an individual script inside the repository:
 learning-projects/<br />
 ├── bmicalculator.py<br />
 ├── simplecalculator.py<br />
+├── godoyburguer.py <br />
 ├── calculatorversion2.py<br />
 ├── toolcalculator.py<br />
 ├── loancalculator.py<br />
@@ -43,6 +44,9 @@ Calculates Body Mass Index (BMI) based on user weight and height, returning the 
 
 simplecalculator.py
 Performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+godoyburguer.py
+burguer simulation tool that calculates the value for burguer, french fries and soda.
 
 calculatorversion2.py
 Enhanced calculator with interactive menu and continuous execution flow.
