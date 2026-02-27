@@ -23,8 +23,10 @@ Each project is organized as an individual script inside the repository:
 learning-projects/<br />
 ├── bmicalculator.py<br />
 ├── simplecalculator.py<br />
-├── godoyburguer.py <br />
 ├── calculatorversion2.py<br />
+├── cinema.py <br />
+├── godoyburguer.py <br />
+├── godoydelivery.py <br />
 ├── toolcalculator.py<br />
 ├── loancalculator.py<br />
 ├── montlybudget.py<br />
