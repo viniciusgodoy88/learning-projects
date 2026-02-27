@@ -41,53 +41,57 @@ learning-projects/<br />
 ### 📌 Projects Overview
 🔢 Calculators & Financial Simulators
 
-bmicalculator.py
+bmicalculator.py  
 Calculates Body Mass Index (BMI) based on user weight and height, returning the health classification.
 
-simplecalculator.py
+simplecalculator.py  
 Performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
-godoyburguer.py
-burguer simulation tool that calculates the value for burguer, french fries and soda.
+godoyburguer.py  
+Burger simulation tool that calculates the total value for burger, french fries, and soda orders.
 
-calculatorversion2.py
+calculatorversion2.py  
 Enhanced calculator with interactive menu and continuous execution flow.
 
-toolcalculator.py
+toolcalculator.py  
 Extended calculator including additional tools such as percentage and power operations.
 
-loancalculator.py
+loancalculator.py  
 Loan simulation tool that calculates installments based on loan amount, interest rate, and payment period.
+
+godoydelivery.py  
+Delivery fee calculator that determines the delivery cost based on distance and adds an additional fee in case of rain.
 
 ### 📊 Logic & Business Simulation
 
-montlybudget.py
+montlybudget.py  
 Monthly budget calculator that compares income and expenses to display the final balance.
 
-sellfruits.py
+sellfruits.py  
 Fruit selling simulation that calculates total price based on selected items and quantity.
 
-studentgrade.py
+studentgrade.py  
 Student grade calculator that determines final average and approval status.
 
-numberparity.py
+numberparity.py  
 Checks whether a given number is even or odd.
 
-temperaturealert.py
+temperaturealert.py  
 Classifies temperature into categories such as cold, mild, or hot.
 
-logiclist.py
+logiclist.py  
 Exercises list manipulation including insertion, sorting, and filtering.
 
-officecontrol.py
+officecontrol.py  
 Basic office task control simulation demonstrating sequential logic and structured flow.
+
+cinema.py  
+Cinema ticket simulation system that calculates ticket prices based on age category and optional add-ons.
 
 ### 🎯 Learning Goals
 
-Strengthen programming logic
-Improve problem-solving skills
-Build structured and readable code
-
-Practice CLI-based applications
-
+Strengthen programming logic  
+Improve problem-solving skills  
+Build structured and readable code  
+Practice CLI-based applications  
 Prepare foundation for more advanced back-end and full stack development
