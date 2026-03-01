@@ -1,3 +1,12 @@
+'''
+The process should work as follows:
+The attendant informs the customer how many items they will order.
+For each item, the system requests the name and price.
+At the end, the system asks if the customer is registered.
+If so, it applies the discount and displays the discounted price.
+Otherwise, it displays the full price.
+'''
+
 # This variable requests the number of items the customer will request
 itenscustumerrequest = int(input("Insert the itens the custumer will request: "))
 total = 0
