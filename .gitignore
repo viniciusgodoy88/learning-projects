@@ -1,0 +1,3 @@
+/node_modules
+*.cmd
+/test/node_modules
